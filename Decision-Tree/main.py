@@ -1,6 +1,6 @@
 # -------------------------------------------------------------------------
 # AUTHOR: Suhuan Pan
-# FILENAME: title of the source file: decision_tree.py
+# FILENAME: CS4210-DecisionTree/Decision-Tree/main.py
 # SPECIFICATION: use python to read a csv file and plot a decision tree
 # FOR: CS 4210 - Assignment #1
 # TIME SPENT: 5 hours
